@@ -1,0 +1,6 @@
+﻿ 2017-01-29 00:03:22,597 [P19248/D12/T429] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username lamayeshedorje@gmail.com from IP address ::1
+ 2017-01-29 00:03:22,597 [P19248/D12/T429] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: lamayeshedorje@gmail.com logged in from IP address ::1
+ 2017-01-29 00:22:56,782 [P19248/D12/T38] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: lamayeshedorje@gmail.com, IP Address: ::1
+ 2017-01-29 09:33:39,559 [P19248/D12/T6] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-01-28 09:33:39
+ 2017-01-29 13:33:39,907 [P19248/D12/T160] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-01-28 13:33:39
+ 2017-01-29 17:33:40,304 [P19248/D12/T238] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-01-28 17:33:39

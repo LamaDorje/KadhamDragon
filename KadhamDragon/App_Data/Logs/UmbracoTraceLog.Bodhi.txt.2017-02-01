@@ -1,0 +1,12 @@
+﻿ 2017-02-01 00:03:53,982 [P23856/D2/T274] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:03:53,982 [P23856/D2/T268] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:03:57,887 [P23856/D2/T253] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:03:57,888 [P23856/D2/T268] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:04:36,481 [P23856/D2/T282] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:04:36,481 [P23856/D2/T268] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:04:36,483 [P23856/D2/T279] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:04:36,489 [P23856/D2/T282] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-01 00:04:36,520 [P23856/D2/T264] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-02-01 00:04:41,779 [P23856/D2/T279] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.HealthCheck.HealthCheck
+ 2017-02-01 00:04:41,783 [P23856/D2/T279] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.HealthCheck.HealthCheck, found 0 (took 4ms)
+ 2017-02-01 00:20:29,176 [P23856/D2/T277] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: lamayeshedorje@gmail.com, IP Address: ::1

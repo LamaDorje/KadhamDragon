@@ -1,0 +1,29 @@
+﻿ 2017-02-13 08:45:04,597 [P9224/D2/T106] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username lamayeshedorje@gmail.com from IP address ::1
+ 2017-02-13 08:45:04,597 [P9224/D2/T106] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: lamayeshedorje@gmail.com logged in from IP address ::1
+ 2017-02-13 09:15:07,112 [P9224/D2/T89] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2017-02-13 09:15:07,112 [P9224/D2/T89] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2017-02-13 09:15:15,524 [P9224/D2/T97] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-02-13 09:15:15,524 [P9224/D2/T80] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:15:15,525 [P9224/D2/T93] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:15:15,525 [P9224/D2/T91] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:15:15,525 [P9224/D2/T117] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:25:12,799 [P9224/D2/T85] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.HealthCheck.HealthCheck
+ 2017-02-13 09:25:12,800 [P9224/D2/T85] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.HealthCheck.HealthCheck, found 0 (took 1ms)
+ 2017-02-13 09:25:40,058 [P9224/D2/T106] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-02-13 09:25:40,059 [P9224/D2/T107] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-02-13 09:25:40,059 [P9224/D2/T36] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:25:40,059 [P9224/D2/T117] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:25:40,063 [P9224/D2/T79] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:25:40,094 [P9224/D2/T113] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:29:28,539 [P9224/D2/T46] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2017-02-13 09:29:28,582 [P9224/D2/T46] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 42ms)
+ 2017-02-13 09:29:40,097 [P9224/D2/T101] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:29:40,098 [P9224/D2/T36] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-02-13 09:29:40,098 [P9224/D2/T92] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-02-13 09:29:40,099 [P9224/D2/T117] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:29:40,101 [P9224/D2/T85] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:29:40,369 [P9224/D2/T92] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-02-13 09:44:32,189 [P9224/D2/T117] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: lamayeshedorje@gmail.com, IP Address: ::1
+ 2017-02-13 14:05:33,101 [P9224/D2/T10] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-02-12 14:05:33
+ 2017-02-13 18:05:33,137 [P9224/D2/T528] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-02-12 18:05:33
+ 2017-02-13 22:38:45,695 [P9224/D2/T528] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-02-12 22:38:45
